@@ -1,4 +1,4 @@
-# Broken Quality Initiative Repository
+# The Broken Quality Initiative Repository
 Welcome to the official GitHub repository of The Broken Quality Initiative [[www.brokenquality.com](https://www.brokenquality.com/)]. Here, you'll find the datasets and (eventually) code associated with the essays found at (Brokenquality.com/bookshelf)[[www.brokenquality.com/](https://www.brokenquality.com/bookshelf)]. 
 
 The naming convention for the datasets in the data folder are as follows:
