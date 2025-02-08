@@ -1,0 +1,181 @@
+Index,Supplier,Month,OTD
+1,Silverstone Industries,Jan,100
+2,Silverstone Industries,Feb,100
+3,Silverstone Industries,Mar,100
+4,Silverstone Industries,Apr,100
+5,Silverstone Industries,May,100
+6,Silverstone Industries,Jun,100
+7,Silverstone Industries,Jul,100
+8,Silverstone Industries,Aug,100
+9,Silverstone Industries,Sep,67
+10,Silverstone Industries,Oct,100
+11,Silverstone Industries,Nov,100
+12,Silverstone Industries,Dec,67
+13,Apex Materials Co.,Jan,83
+14,Apex Materials Co.,Feb,83
+15,Apex Materials Co.,Mar,83
+16,Apex Materials Co.,Apr,86
+17,Apex Materials Co.,May,86
+18,Apex Materials Co.,Jun,88
+19,Apex Materials Co.,Jul,88
+20,Apex Materials Co.,Aug,94
+21,Apex Materials Co.,Sep,97
+22,Apex Materials Co.,Oct,96
+23,Apex Materials Co.,Nov,89
+24,Apex Materials Co.,Dec,97
+25,Horizon Manufacturing,Jan,95
+26,Horizon Manufacturing,Feb,75
+27,Horizon Manufacturing,Mar,66
+28,Horizon Manufacturing,Apr,76
+29,Horizon Manufacturing,May,84
+30,Horizon Manufacturing,Jun,99
+31,Horizon Manufacturing,Jul,99
+32,Horizon Manufacturing,Aug,98
+33,Horizon Manufacturing,Sep,26
+34,Horizon Manufacturing,Oct,87
+35,Horizon Manufacturing,Nov,87
+36,Horizon Manufacturing,Dec,26
+37,Titan Supply Solutions,Jan,81
+38,Titan Supply Solutions,Feb,83
+39,Titan Supply Solutions,Mar,59
+40,Titan Supply Solutions,Apr,67
+41,Titan Supply Solutions,May,76
+42,Titan Supply Solutions,Jun,77
+43,Titan Supply Solutions,Jul,77
+44,Titan Supply Solutions,Aug,86
+45,Titan Supply Solutions,Sep,91
+46,Titan Supply Solutions,Oct,91
+47,Titan Supply Solutions,Nov,89
+48,Titan Supply Solutions,Dec,91
+49,NovaTech Components,Jan,99
+50,NovaTech Components,Feb,94
+51,NovaTech Components,Mar,93
+52,NovaTech Components,Apr,93
+53,NovaTech Components,May,95
+54,NovaTech Components,Jun,97
+55,NovaTech Components,Jul,96
+56,NovaTech Components,Aug,95
+57,NovaTech Components,Sep,98
+58,NovaTech Components,Oct,96
+59,NovaTech Components,Nov,95
+60,NovaTech Components,Dec,98
+61,Greenfield Enterprises,Jan,74
+62,Greenfield Enterprises,Feb,75
+63,Greenfield Enterprises,Mar,76
+64,Greenfield Enterprises,Apr,85
+65,Greenfield Enterprises,May,83
+66,Greenfield Enterprises,Jun,83
+67,Greenfield Enterprises,Jul,83
+68,Greenfield Enterprises,Aug,69
+69,Greenfield Enterprises,Sep,75
+70,Greenfield Enterprises,Oct,90
+71,Greenfield Enterprises,Nov,64
+72,Greenfield Enterprises,Dec,75
+73,Summit Precision Parts,Jan,89
+74,Summit Precision Parts,Feb,94
+75,Summit Precision Parts,Mar,89
+76,Summit Precision Parts,Apr,92
+77,Summit Precision Parts,May,93
+78,Summit Precision Parts,Jun,87
+79,Summit Precision Parts,Jul,87
+80,Summit Precision Parts,Aug,86
+81,Summit Precision Parts,Sep,91
+82,Summit Precision Parts,Oct,86
+83,Summit Precision Parts,Nov,86
+84,Summit Precision Parts,Dec,91
+85,Quantum Industries,Jan,89
+86,Quantum Industries,Feb,90
+87,Quantum Industries,Mar,76
+88,Quantum Industries,Apr,80
+89,Quantum Industries,May,90
+90,Quantum Industries,Jun,96
+91,Quantum Industries,Jul,96
+92,Quantum Industries,Aug,96
+93,Quantum Industries,Sep,96
+94,Quantum Industries,Oct,95
+95,Quantum Industries,Nov,95
+96,Quantum Industries,Dec,96
+97,Vanguard Supply Corp.,Jan,100
+98,Vanguard Supply Corp.,Feb,84
+99,Vanguard Supply Corp.,Mar,69
+100,Vanguard Supply Corp.,Apr,72
+101,Vanguard Supply Corp.,May,76
+102,Vanguard Supply Corp.,Jun,82
+103,Vanguard Supply Corp.,Jul,82
+104,Vanguard Supply Corp.,Aug,81
+105,Vanguard Supply Corp.,Sep,79
+106,Vanguard Supply Corp.,Oct,85
+107,Vanguard Supply Corp.,Nov,85
+108,Vanguard Supply Corp.,Dec,79
+109,Pheonix Engineering,Jan,85
+110,Pheonix Engineering,Feb,89
+111,Pheonix Engineering,Mar,71
+112,Pheonix Engineering,Apr,83
+113,Pheonix Engineering,May,94
+114,Pheonix Engineering,Jun,62
+115,Pheonix Engineering,Jul,76
+116,Pheonix Engineering,Aug,85
+117,Pheonix Engineering,Sep,82
+118,Pheonix Engineering,Oct,82
+119,Pheonix Engineering,Nov,82
+120,Pheonix Engineering,Dec,82
+121,BluePeak Manufacturing,Jan,98
+122,BluePeak Manufacturing,Feb,96
+123,BluePeak Manufacturing,Mar,92
+124,BluePeak Manufacturing,Apr,88
+125,BluePeak Manufacturing,May,94
+126,BluePeak Manufacturing,Jun,92
+127,BluePeak Manufacturing,Jul,96
+128,BluePeak Manufacturing,Aug,90
+129,BluePeak Manufacturing,Sep,88
+130,BluePeak Manufacturing,Oct,91
+131,BluePeak Manufacturing,Nov,92
+132,BluePeak Manufacturing,Dec,93
+133,Redwood Supplier Ltd.,Jan,94
+134,Redwood Supplier Ltd.,Feb,93
+135,Redwood Supplier Ltd.,Mar,100
+136,Redwood Supplier Ltd.,Apr,100
+137,Redwood Supplier Ltd.,May,97
+138,Redwood Supplier Ltd.,Jun,95
+139,Redwood Supplier Ltd.,Jul,95
+140,Redwood Supplier Ltd.,Aug,100
+141,Redwood Supplier Ltd.,Sep,93
+142,Redwood Supplier Ltd.,Oct,100
+143,Redwood Supplier Ltd.,Nov,100
+144,Redwood Supplier Ltd.,Dec,93
+145,Clearview Technologies,Jan,75
+146,Clearview Technologies,Feb,73
+147,Clearview Technologies,Mar,83
+148,Clearview Technologies,Apr,75
+149,Clearview Technologies,May,93
+150,Clearview Technologies,Jun,56
+151,Clearview Technologies,Jul,75
+152,Clearview Technologies,Aug,70
+153,Clearview Technologies,Sep,73
+154,Clearview Technologies,Oct,76
+155,Clearview Technologies,Nov,74
+156,Clearview Technologies,Dec,75
+157,Ocean Components,Jan,95
+158,Ocean Components,Feb,89
+159,Ocean Components,Mar,94
+160,Ocean Components,Apr,92
+161,Ocean Components,May,97
+162,Ocean Components,Jun,100
+163,Ocean Components,Jul,100
+164,Ocean Components,Aug,100
+165,Ocean Components,Sep,100
+166,Ocean Components,Oct,100
+167,Ocean Components,Nov,100
+168,Ocean Components,Dec,100
+169,Sterling Global Resources,Jan,98
+170,Sterling Global Resources,Feb,100
+171,Sterling Global Resources,Mar,97
+172,Sterling Global Resources,Apr,100
+173,Sterling Global Resources,May,100
+174,Sterling Global Resources,Jun,72
+175,Sterling Global Resources,Jul,72
+176,Sterling Global Resources,Aug,59
+177,Sterling Global Resources,Sep,90
+178,Sterling Global Resources,Oct,86
+179,Sterling Global Resources,Nov,86
+180,Sterling Global Resources,Dec,90
