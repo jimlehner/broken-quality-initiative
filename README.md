@@ -1,11 +1,13 @@
 # The Broken Quality Initiative Repository
 Welcome to the official GitHub repository of The Broken Quality Initiative [www.brokenquality.com](https://www.brokenquality.com/). Here, you'll find the datasets and (eventually) code associated with the essays found at [www.brokenquality.com/bookshelf](https://www.brokenquality.com/bookshelf). 
 ![Broken quality logo vertical - no subtitle test](https://github.com/user-attachments/assets/d00b7ed8-5ad1-4d87-951c-e2d8e5432393)
-The datasets found in the data folder use the following naming convetion:
+The datasets found in the **data** folder use the following naming convetion:
 
 **essay_name-dataset_name**
 
 As an example, the dataset associated with the essay **Network Analysis: Advancing the utility of SPC** has the name **network_analysis_advancing_spc-manufacturing_process_data**.
+
+The code used to generate the figures found in each essay are nambed in accordance with the the essay and are found in the **code** folder. 
 
 ## Table of Contents
 
