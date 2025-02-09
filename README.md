@@ -50,4 +50,4 @@ Since the mid-1920s, with the seminal work of Dr. Walter Shewhart at Bell Labs, 
 Visit [BrokenQuality.com](https://www.BrokenQuality.com/bookshelf) for resources and more details regarding the application and use of `process behavior charts`.
 
 ## Contact
-If you have questions or would like to collaborate email `James.Lehner@gmail.com` or `thebrokenqualityinitiative@gmail.com`.
+If you have questions or would like to collaborate email **James.Lehner@gmail.com** or **thebrokenqualityinitiative@gmail.com**.
