@@ -47,7 +47,7 @@ The lack of knowledge of variation is reflected in the often haphazard, disorgan
 
 Since the mid-1920s, with the seminal work of Dr. Walter Shewhart at Bell Labs, a method and tool capable of making sense of data has been at our fingertips. It is due time that industry put to work what Shewhart discovered more than 100 years ago. It is due time that individuals, teams, and organizations learn to turn data into insights and insights into actions that result in change using process behavior charts.
 
-Visit [BrokenQuality.com](https://www.BrokenQuality.com/bookshelf) for resources and more details regarding the application and use of `process behavior charts`.
+Visit [BrokenQuality.com](https://www.BrokenQuality.com/bookshelf) for resources and more details regarding the application and use of **process behavior charts**.
 
 ## Contact
 If you have questions or would like to collaborate email **James.Lehner@gmail.com** or **thebrokenqualityinitiative@gmail.com**.
