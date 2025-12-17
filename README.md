@@ -1,22 +1,24 @@
-# The Broken Quality Initiative Repository
-Welcome to the official GitHub repository of The Broken Quality Initiative [www.brokenquality.com](https://www.brokenquality.com/). Here, you'll find the datasets and (eventually) code associated with the essays found at [www.brokenquality.com/bookshelf](https://www.brokenquality.com/bookshelf). 
 ![Broken quality logo vertical - no subtitle test](https://github.com/user-attachments/assets/d00b7ed8-5ad1-4d87-951c-e2d8e5432393)
+
+Welcome to the official GitHub repository of The Broken Quality Initiative [www.brokenquality.com](https://www.brokenquality.com/). Here, you'll find the datasets and Python code associated with the essays found on the [Broken Quality Bookshelf](https://www.brokenquality.com/bookshelf). 
+
 The datasets found in the [data folder](https://github.com/jimlehner/broken-quality-initiative/tree/main/data) use the following naming convetion:
 
 **essay_name-dataset_name**
 
 As an example, the dataset associated with the essay **Network Analysis: Advancing the utility of SPC** has the name **network_analysis_advancing_spc-manufacturing_process_data**.
 
-The code used to generate the figures found in each essay are nambed in accordance with the the essay and are found in the [code folder](https://github.com/jimlehner/broken-quality-initiative/tree/main/code) 
+The code used to generate the figures found in each essay are named in accordance with the the essay. These files can be found in the [Python code folder](https://github.com/jimlehner/broken-quality-initiative/tree/main/code).
 
 ## Table of Contents
 
 1. [Essays](#essays)
 2. [How to use this repository](#how-to-use-this-repository)
-3. [Filing bigs](#filing-bugs)
-4. [Contributing](#contributing)
-5. [About The Broken Quality Initiative](#about-the-broken-quality-initiative)
-6. [Contact](#contact)
+3. [Bias correction and scaling factor tables](#bias-correction-and-scaling-factor-tables)
+4. [Filing bugs](#filing-bugs)
+5. [Contributing](#contributing)
+6. [About The Broken Quality Initiative](#about-the-broken-quality-initiative)
+7. [Contact](#contact)
 
 ## Essays
 The essays on The Broken Quality Initiative Bookshelf include:
@@ -33,6 +35,67 @@ The essays on The Broken Quality Initiative Bookshelf include:
 
 ## How to use this repository
 Inside this repository you'll find the datasets and code associated with the essays found on [](https://www.brokenquality.com/bookshelf). As outlined above, the datasets associated with each essay can be found in the [data folder](https://github.com/jimlehner/broken-quality-initiative/tree/main/data) and are labeled in accordance with the naming convention `essay_name-dataset_name`. The code for each essay, found in the [code folder](https://github.com/jimlehner/broken-quality-initiative/tree/main/code), is labeled in accordance with the naming convetion **essay_name_code**.
+
+## Bias correction and scaling factor tables
+The **bias correction factor table** contains the values for the factors that convert the average ranges and median ranges into the appropriate measures of dispersion, namely, either *Sigma(X)*, *Sigma($\overline{X}$)*, or *Sigma(R)*. For details on how these values are calculated see [Monte Carlo simulation for determining bias correction factors](https://github.com/jimlehner/understanding-variation/projects).
+
+The two scaling factors tables (*average-range-chart-scaling-factors-using-average-range.csv* and *average-range-chart-scaling-factors-using-median-range.csv*), should be used to determine the value of the respective scaling factors based on subgroup size when building an Average and Range chart.
+
+### Scaling factors for Average and Range chart using the average range, $ \overline{R} $
+Given *k* subgroups each with *n* observations with grand average, and average range, use the tabled constants in *average-range-chart-scaling-factors-using-average-range.csv*.
+
+Limits for subgroup averages for an Average and Range chart using the **average range** are obtained from:
+
+$$ \text{UAL}_{\overline{X}} = \overline{\overline{\text{X}}} + A_2 \cdot \overline{\text{R}} $$
+$$ \text{CL}_{\overline{X}} = \overline{\overline{X}} $$
+$$ \text{LAL}_{\overline{X}} = \overline{\overline{\text{X}}} - A_2 \cdot \overline{\text{R}} $$
+
+Limits for subgroup ranges for an Average and Range chart using the **average range** are obtained using the formulas:
+
+$$ \text{URL}_{R} = D_4 \cdot \overline{\text{R}} $$
+$$ \text{CL}_{\overline{X}} = \overline{R} $$
+$$ \text{LRL}_{R} = D_3 \cdot \overline{\text{R}} $$
+
+Natural process limits for individual values may be obtained using the formulas:
+
+$$ \text{UPL}_{X} = \overline{\overline{\text{X}}} + E_2 \cdot \overline{\text{R}} $$
+$$ \text{CL}_{X} = \overline{\overline{X}} $$
+$$ \text{LPL}_{X} = \overline{\overline{\text{X}}} - E_2 \cdot \overline{\text{R}} $$
+
+The formulas for the scaling factors in *average-range-chart-scaling-factors-using-average-range.csv* are:
+
+$$ \text{A}_{2} = \frac{3}{d_2 \sqrt{n}} $$
+$$ \text{D}_{3} = 1 - (\frac{3\cdot\text{d}_3}{d_2}) $$
+$$ \text{D}_{4} = 1 + (\frac{3\cdot\text{d}_3}{d_2}) $$
+$$ \text{E}_{2} = \frac{3}{d_{2}} $$
+
+### Scaling factors for Average and Range chart using the median range, $ \tilde{R} $
+Given *k* subgroups each with *n* observations with grand average, and average range, use the tabled constants in *average-range-chart-scaling-factors-using-median-range.csv*.
+
+Limits for subgroup averages for an Average and Range chart using the **median range** are obtained from:
+
+$$ \text{UAL}_{\overline{X}} = \overline{\overline{\text{X}}} + A_4 \cdot \tilde{\text{R}} $$
+$$ \text{CL}_{\overline{X}} = \overline{\overline{X}} $$
+$$ \text{LAL}_{\overline{X}} = \overline{\overline{\text{X}}} - A_4 \cdot \tilde{\text{R}} $$
+
+Limits for subgroup ranges for an Average and Range chart using the **median range** are obtained using the formulas:
+
+$$ \text{URL}_{R} = D_6 \cdot \tilde{\text{R}} $$
+$$ \text{CL}_{R} = \tilde{R} $$
+$$ \text{LRL}_{R} = D_5 \cdot \tilde{\text{R}} $$
+
+Natural process limits for individual values may be obtained using the formulas:
+
+$$ \text{UPL}_{X} = \overline{\overline{\text{X}}} + E_5 \cdot \tilde{\text{R}} $$
+$$ \text{CL}_{X} = \overline{\overline{X}} $$
+$$ \text{LPL}_{X} = \overline{\overline{\text{X}}} - E_5 \cdot \tilde{\text{R}} $$
+
+The formulas for the scaling factors in *average-range-chart-scaling-factors-using-median-range.csv* are:
+
+$$ \text{A}_{4} = \frac{3}{d_2 \sqrt{n}} $$
+$$ \text{D}_{5} = 1 - \frac{d_{2} - 3\text{d}_3}{d_4} $$
+$$ \text{D}_{6} = \frac{d_{2} - 3\text{d}_3}{d_4} $$
+$$ \text{E}_{5} = \frac{3}{d_{4}} $$
 
 ## Filing Bugs
 Although we strive to realize it, we know perfection is difficult to attain. If you encounter any issues or errors in the book or code samples, please don't hesitate to file a bug in the [Issues](https://github.com/jimlehner/broken-quality-initiative/issues) section of this repository. When filing an issue please include as much detail as possible including the chapter, page, number, descirption of the issue, and, if relevant, a screenshot or code snippet.
