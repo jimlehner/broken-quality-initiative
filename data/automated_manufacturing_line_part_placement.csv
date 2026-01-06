@@ -1,0 +1,476 @@
+Sample,X position (mm),Y position (mm),Process state
+1,0.681,0.384,As-recieved
+2,0.565,0.468,As-recieved
+3,0.577,0.243,As-recieved
+4,0.572,0.280,As-recieved
+5,0.565,0.350,As-recieved
+6,0.618,0.254,As-recieved
+7,0.454,0.188,As-recieved
+8,0.166,0.438,As-recieved
+9,0.875,0.336,As-recieved
+10,0.461,0.290,As-recieved
+11,0.548,0.456,As-recieved
+12,0.510,0.261,As-recieved
+13,0.378,0.360,As-recieved
+14,0.586,0.301,As-recieved
+15,0.603,0.466,As-recieved
+16,1.021,0.271,As-recieved
+17,0.968,0.128,As-recieved
+18,0.487,0.289,As-recieved
+19,0.092,0.397,As-recieved
+20,0.000,0.000,As-recieved
+21,0.433,0.247,As-recieved
+22,0.591,0.328,As-recieved
+23,0.455,0.378,As-recieved
+24,0.219,0.550,As-recieved
+25,0.387,0.335,As-recieved
+26,0.824,0.173,As-recieved
+27,0.644,0.198,As-recieved
+28,2.193,1.245,As-recieved
+29,0.590,0.493,As-recieved
+30,0.619,0.395,As-recieved
+31,0.546,0.349,As-recieved
+32,0.544,0.530,As-recieved
+33,0.657,0.804,As-recieved
+34,0.423,0.358,As-recieved
+35,0.404,0.407,As-recieved
+36,0.591,0.442,As-recieved
+37,0.000,0.000,As-recieved
+38,0.650,0.341,As-recieved
+39,0.544,0.530,As-recieved
+40,0.577,0.272,As-recieved
+41,0.506,0.275,As-recieved
+42,0.369,0.526,As-recieved
+43,0.312,0.327,As-recieved
+44,0.692,0.283,As-recieved
+45,0.839,0.199,As-recieved
+46,0.778,0.252,As-recieved
+47,0.645,0.198,As-recieved
+48,0.000,0.000,As-recieved
+49,0.198,0.211,As-recieved
+50,0.631,0.393,As-recieved
+51,0.647,0.180,As-recieved
+52,0.859,0.297,As-recieved
+53,0.396,0.530,As-recieved
+54,0.719,0.474,As-recieved
+55,0.983,0.132,As-recieved
+56,0.708,0.633,As-recieved
+57,0.637,0.345,As-recieved
+58,0.623,0.257,As-recieved
+59,0.686,0.650,As-recieved
+60,0.442,0.550,As-recieved
+61,0.622,0.279,As-recieved
+62,0.611,0.226,As-recieved
+63,0.590,0.452,As-recieved
+64,0.488,0.131,As-recieved
+65,0.790,0.313,As-recieved
+66,0.271,0.370,As-recieved
+67,0.547,0.330,As-recieved
+68,0.654,0.202,As-recieved
+69,0.650,0.265,As-recieved
+70,0.556,0.431,As-recieved
+71,0.587,0.373,As-recieved
+72,0.260,0.459,As-recieved
+73,0.756,0.373,As-recieved
+74,0.662,0.170,As-recieved
+75,0.754,0.194,As-recieved
+76,0.645,0.145,As-recieved
+77,0.000,0.000,As-recieved
+78,0.235,0.662,As-recieved
+79,0.575,0.188,As-recieved
+80,0.496,0.318,As-recieved
+81,0.722,0.383,As-recieved
+82,0.000,0.000,As-recieved
+83,0.515,0.322,As-recieved
+84,0.824,0.301,As-recieved
+85,0.182,0.324,As-recieved
+86,0.639,0.452,As-recieved
+87,0.526,0.366,As-recieved
+88,0.837,0.259,As-recieved
+89,0.507,0.347,As-recieved
+90,0.053,0.199,As-recieved
+91,0.226,0.498,As-recieved
+92,0.358,0.333,As-recieved
+93,0.373,0.222,As-recieved
+94,0.457,0.196,As-recieved
+95,0.369,0.310,As-recieved
+1,0.489,0.387,Initial shim
+2,0.467,0.574,Initial shim
+3,0.451,0.570,Initial shim
+4,0.513,0.483,Initial shim
+5,0.976,0.239,Initial shim
+6,0.926,0.503,Initial shim
+7,0.000,0.000,Initial shim
+8,0.559,0.430,Initial shim
+9,0.667,0.440,Initial shim
+10,0.921,0.312,Initial shim
+11,0.605,0.294,Initial shim
+12,0.438,0.254,Initial shim
+13,0.724,0.460,Initial shim
+14,0.385,0.469,Initial shim
+15,0.690,0.385,Initial shim
+16,0.880,0.149,Initial shim
+17,1.022,0.497,Initial shim
+18,0.708,0.223,Initial shim
+19,0.000,0.000,Initial shim
+20,0.000,0.000,Initial shim
+21,0.000,0.000,Initial shim
+22,0.262,0.397,Initial shim
+23,5.491,3.928,Initial shim
+24,0.589,0.225,Initial shim
+25,0.558,0.284,Initial shim
+26,0.832,0.247,Initial shim
+27,0.767,0.271,Initial shim
+28,0.763,0.297,Initial shim
+29,0.873,0.282,Initial shim
+30,0.799,0.283,Initial shim
+31,0.223,0.591,Initial shim
+32,0.757,0.257,Initial shim
+33,0.541,0.303,Initial shim
+34,0.909,0.150,Initial shim
+35,0.647,0.308,Initial shim
+36,0.443,0.399,Initial shim
+37,0.285,0.557,Initial shim
+38,0.437,0.368,Initial shim
+39,0.647,0.238,Initial shim
+40,0.525,0.436,Initial shim
+41,0.634,0.215,Initial shim
+42,0.685,0.255,Initial shim
+43,0.360,0.249,Initial shim
+44,0.075,0.332,Initial shim
+45,1.097,0.347,Initial shim
+46,0.972,0.083,Initial shim
+47,0.000,0.000,Initial shim
+48,0.000,0.000,Initial shim
+49,0.000,0.000,Initial shim
+50,0.000,0.000,Initial shim
+51,0.138,0.304,Initial shim
+52,0.193,0.285,Initial shim
+53,0.776,0.001,Initial shim
+54,4.199,2.309,Initial shim
+55,0.830,0.275,Initial shim
+56,0.556,0.332,Initial shim
+57,0.401,0.373,Initial shim
+58,0.670,0.326,Initial shim
+59,0.614,0.268,Initial shim
+60,0.543,0.390,Initial shim
+61,0.853,0.191,Initial shim
+62,0.686,0.308,Initial shim
+63,0.514,0.216,Initial shim
+64,0.543,0.187,Initial shim
+65,0.500,1.518,Initial shim
+66,0.330,0.296,Initial shim
+67,0.841,0.088,Initial shim
+68,0.751,0.262,Initial shim
+69,0.561,0.338,Initial shim
+70,0.676,0.328,Initial shim
+71,0.554,0.523,Initial shim
+72,0.547,0.271,Initial shim
+73,0.874,0.479,Initial shim
+74,0.951,0.384,Initial shim
+75,0.643,0.366,Initial shim
+76,0.901,0.387,Initial shim
+77,0.000,0.000,Initial shim
+78,0.000,0.000,Initial shim
+79,0.335,0.056,Initial shim
+80,0.000,0.000,Initial shim
+81,0.000,0.000,Initial shim
+82,0.530,0.445,Initial shim
+83,0.544,0.380,Initial shim
+84,0.818,0.284,Initial shim
+85,0.603,0.532,Initial shim
+86,0.721,0.519,Initial shim
+87,0.509,0.365,Initial shim
+88,0.692,0.344,Initial shim
+89,0.867,0.274,Initial shim
+90,0.919,0.289,Initial shim
+91,0.708,0.301,Initial shim
+92,0.666,0.160,Initial shim
+93,0.512,0.209,Initial shim
+94,0.642,0.138,Initial shim
+95,0.671,0.300,Initial shim
+1,0.000,0.000,Second shim
+2,0.789,0.427,Second shim
+3,0.723,0.133,Second shim
+4,0.546,0.426,Second shim
+5,0.811,0.061,Second shim
+6,0.613,0.363,Second shim
+7,0.829,0.175,Second shim
+8,0.646,0.076,Second shim
+9,0.852,0.292,Second shim
+10,0.961,0.209,Second shim
+11,0.772,0.286,Second shim
+12,0.949,0.223,Second shim
+13,0.762,0.309,Second shim
+14,0.838,0.331,Second shim
+15,0.768,0.432,Second shim
+16,0.883,0.217,Second shim
+17,0.952,0.138,Second shim
+18,0.694,0.197,Second shim
+19,1.045,0.120,Second shim
+20,0.791,0.133,Second shim
+21,0.818,0.225,Second shim
+22,0.671,0.184,Second shim
+23,0.781,0.305,Second shim
+24,0.663,0.242,Second shim
+25,0.947,0.350,Second shim
+26,0.910,0.236,Second shim
+27,0.852,0.242,Second shim
+28,0.772,0.297,Second shim
+29,0.239,0.413,Second shim
+30,0.331,1.086,Second shim
+31,0.717,0.311,Second shim
+32,0.789,0.403,Second shim
+33,0.695,0.213,Second shim
+34,0.762,0.319,Second shim
+35,0.883,0.198,Second shim
+36,0.771,0.195,Second shim
+37,0.617,0.089,Second shim
+38,0.747,0.116,Second shim
+39,0.797,0.322,Second shim
+40,0.790,0.245,Second shim
+41,0.885,0.273,Second shim
+42,0.752,0.502,Second shim
+43,0.778,0.352,Second shim
+44,0.738,0.401,Second shim
+45,0.839,0.286,Second shim
+46,0.843,0.783,Second shim
+47,0.000,0.000,Second shim
+48,1.027,0.164,Second shim
+49,0.694,0.263,Second shim
+50,0.797,0.173,Second shim
+51,0.778,0.166,Second shim
+52,0.600,0.278,Second shim
+53,0.603,0.111,Second shim
+54,0.828,0.454,Second shim
+55,0.798,0.242,Second shim
+56,0.809,0.274,Second shim
+57,0.976,0.406,Second shim
+58,0.268,0.449,Second shim
+59,0.380,0.371,Second shim
+60,0.880,0.323,Second shim
+61,0.671,0.243,Second shim
+62,0.623,0.358,Second shim
+63,0.680,0.275,Second shim
+64,0.715,0.159,Second shim
+65,0.774,0.187,Second shim
+66,0.841,0.172,Second shim
+67,0.000,0.000,Second shim
+68,0.859,0.209,Second shim
+69,0.920,0.437,Second shim
+70,1.355,0.366,Second shim
+71,0.757,0.408,Second shim
+72,0.996,0.191,Second shim
+73,0.781,0.240,Second shim
+74,0.850,0.162,Second shim
+75,0.775,0.197,Second shim
+76,0.640,0.427,Second shim
+77,0.936,0.246,Second shim
+78,0.751,0.302,Second shim
+79,0.796,0.264,Second shim
+80,0.842,0.296,Second shim
+81,0.831,0.289,Second shim
+82,0.810,0.187,Second shim
+83,1.200,0.192,Second shim
+84,0.808,0.171,Second shim
+85,0.807,0.353,Second shim
+86,0.979,0.439,Second shim
+87,0.168,0.433,Second shim
+88,0.734,0.430,Second shim
+89,0.767,0.184,Second shim
+90,0.781,0.192,Second shim
+91,0.673,0.365,Second shim
+92,0.841,0.182,Second shim
+93,0.945,0.285,Second shim
+94,0.644,0.410,Second shim
+95,1.219,0.530,Second shim
+1,0.463,0.139,New vaccum pad
+2,0.543,0.279,New vaccum pad
+3,0.659,0.294,New vaccum pad
+4,0.865,0.325,New vaccum pad
+5,0.472,0.088,New vaccum pad
+6,0.088,0.349,New vaccum pad
+7,0.579,0.431,New vaccum pad
+8,0.536,0.265,New vaccum pad
+9,0.503,0.126,New vaccum pad
+10,0.572,0.149,New vaccum pad
+11,0.970,0.392,New vaccum pad
+12,0.815,0.424,New vaccum pad
+13,0.734,0.325,New vaccum pad
+14,0.000,0.000,New vaccum pad
+15,0.499,0.176,New vaccum pad
+16,0.676,0.423,New vaccum pad
+17,0.779,0.571,New vaccum pad
+18,0.416,0.446,New vaccum pad
+19,0.801,0.388,New vaccum pad
+20,0.843,0.132,New vaccum pad
+21,0.621,0.307,New vaccum pad
+22,0.000,0.000,New vaccum pad
+23,0.827,0.321,New vaccum pad
+24,0.308,0.340,New vaccum pad
+25,0.668,0.411,New vaccum pad
+26,0.888,0.297,New vaccum pad
+27,0.750,0.316,New vaccum pad
+28,0.340,0.226,New vaccum pad
+29,0.451,0.252,New vaccum pad
+30,0.000,0.000,New vaccum pad
+31,0.518,0.161,New vaccum pad
+32,0.604,0.480,New vaccum pad
+33,0.797,0.167,New vaccum pad
+34,0.720,0.288,New vaccum pad
+35,0.588,0.452,New vaccum pad
+36,0.645,0.631,New vaccum pad
+37,0.776,0.395,New vaccum pad
+38,0.647,0.161,New vaccum pad
+39,0.098,0.428,New vaccum pad
+40,0.146,0.246,New vaccum pad
+41,0.000,0.000,New vaccum pad
+42,0.261,0.238,New vaccum pad
+43,0.523,0.721,New vaccum pad
+44,0.181,0.764,New vaccum pad
+45,0.000,0.000,New vaccum pad
+46,0.764,0.328,New vaccum pad
+47,0.531,0.494,New vaccum pad
+48,0.436,0.361,New vaccum pad
+49,0.198,0.524,New vaccum pad
+50,0.474,0.258,New vaccum pad
+51,0.765,0.261,New vaccum pad
+52,0.717,0.320,New vaccum pad
+53,0.192,0.231,New vaccum pad
+54,0.243,0.251,New vaccum pad
+55,0.473,0.339,New vaccum pad
+56,0.274,0.251,New vaccum pad
+57,0.477,0.294,New vaccum pad
+58,0.562,0.291,New vaccum pad
+59,0.718,0.055,New vaccum pad
+60,0.520,0.182,New vaccum pad
+61,0.354,0.434,New vaccum pad
+62,0.306,0.145,New vaccum pad
+63,0.786,0.316,New vaccum pad
+64,0.868,0.289,New vaccum pad
+65,0.787,0.191,New vaccum pad
+66,0.241,0.546,New vaccum pad
+67,0.431,0.171,New vaccum pad
+68,0.292,0.165,New vaccum pad
+69,0.000,0.000,New vaccum pad
+70,0.570,0.293,New vaccum pad
+71,0.698,0.146,New vaccum pad
+72,0.297,0.448,New vaccum pad
+73,0.000,0.000,New vaccum pad
+74,0.752,0.229,New vaccum pad
+75,0.502,0.419,New vaccum pad
+76,0.499,0.524,New vaccum pad
+77,0.487,0.200,New vaccum pad
+78,0.228,0.272,New vaccum pad
+79,0.897,0.176,New vaccum pad
+80,0.308,0.373,New vaccum pad
+81,0.843,0.201,New vaccum pad
+82,0.566,0.288,New vaccum pad
+83,0.508,0.289,New vaccum pad
+84,0.521,0.341,New vaccum pad
+85,0.250,0.239,New vaccum pad
+86,0.384,0.257,New vaccum pad
+87,0.707,0.291,New vaccum pad
+88,0.890,0.196,New vaccum pad
+89,0.260,0.390,New vaccum pad
+90,0.305,0.287,New vaccum pad
+91,0.671,0.275,New vaccum pad
+92,0.133,0.099,New vaccum pad
+93,0.479,0.468,New vaccum pad
+94,0.138,0.293,New vaccum pad
+95,0.390,0.330,New vaccum pad
+1,0.757,0.284,Nests aligned
+2,0.851,0.334,Nests aligned
+3,0.510,0.328,Nests aligned
+4,0.667,0.166,Nests aligned
+5,1.026,0.196,Nests aligned
+6,0.705,0.378,Nests aligned
+7,0.909,0.141,Nests aligned
+8,0.764,0.350,Nests aligned
+9,0.870,0.079,Nests aligned
+10,0.935,0.176,Nests aligned
+11,0.920,0.307,Nests aligned
+12,0.881,0.283,Nests aligned
+13,0.793,0.307,Nests aligned
+14,0.833,0.192,Nests aligned
+15,0.744,0.199,Nests aligned
+16,0.821,0.122,Nests aligned
+17,0.772,0.115,Nests aligned
+18,0.891,0.132,Nests aligned
+19,0.963,0.124,Nests aligned
+20,0.713,0.263,Nests aligned
+21,0.511,0.398,Nests aligned
+22,0.589,0.375,Nests aligned
+23,0.638,0.175,Nests aligned
+24,0.636,0.154,Nests aligned
+25,0.713,0.165,Nests aligned
+26,0.696,0.254,Nests aligned
+27,0.912,0.341,Nests aligned
+28,0.790,0.199,Nests aligned
+29,0.660,0.283,Nests aligned
+30,0.731,0.220,Nests aligned
+31,0.676,0.000,Nests aligned
+32,0.789,0.364,Nests aligned
+33,0.742,0.268,Nests aligned
+34,0.950,0.306,Nests aligned
+35,0.802,0.346,Nests aligned
+36,0.771,0.377,Nests aligned
+37,0.733,0.214,Nests aligned
+38,0.863,0.141,Nests aligned
+39,0.827,0.191,Nests aligned
+40,0.836,0.244,Nests aligned
+41,0.861,0.259,Nests aligned
+42,0.676,0.287,Nests aligned
+43,0.698,0.292,Nests aligned
+44,0.596,0.274,Nests aligned
+45,0.794,0.086,Nests aligned
+46,0.688,0.266,Nests aligned
+47,0.798,0.141,Nests aligned
+48,0.807,0.293,Nests aligned
+49,0.918,0.252,Nests aligned
+50,0.678,0.366,Nests aligned
+51,0.599,0.390,Nests aligned
+52,0.653,0.340,Nests aligned
+53,0.866,0.142,Nests aligned
+54,0.684,0.229,Nests aligned
+55,0.784,0.211,Nests aligned
+56,0.711,0.361,Nests aligned
+57,0.777,0.161,Nests aligned
+58,0.740,0.447,Nests aligned
+59,0.717,0.329,Nests aligned
+60,0.679,0.309,Nests aligned
+61,0.964,0.340,Nests aligned
+62,0.701,0.251,Nests aligned
+63,0.806,0.302,Nests aligned
+64,0.690,0.501,Nests aligned
+65,0.875,0.312,Nests aligned
+66,0.809,0.378,Nests aligned
+67,0.799,0.303,Nests aligned
+68,0.990,0.162,Nests aligned
+69,0.933,0.247,Nests aligned
+70,0.971,0.337,Nests aligned
+71,0.575,0.176,Nests aligned
+72,0.903,0.253,Nests aligned
+73,0.754,0.166,Nests aligned
+74,0.785,0.110,Nests aligned
+75,0.791,0.269,Nests aligned
+76,0.743,0.112,Nests aligned
+77,0.732,0.307,Nests aligned
+78,0.767,0.168,Nests aligned
+79,0.760,0.238,Nests aligned
+80,0.688,0.412,Nests aligned
+81,0.714,0.441,Nests aligned
+82,0.844,0.165,Nests aligned
+83,0.886,0.262,Nests aligned
+84,0.678,0.162,Nests aligned
+85,0.631,0.310,Nests aligned
+86,0.846,0.391,Nests aligned
+87,0.638,0.343,Nests aligned
+88,0.602,0.293,Nests aligned
+89,0.888,0.338,Nests aligned
+90,0.709,0.065,Nests aligned
+91,0.738,0.240,Nests aligned
+92,0.715,0.597,Nests aligned
+93,0.783,0.381,Nests aligned
+94,0.831,0.107,Nests aligned
+95,0.785,0.072,Nests aligned
